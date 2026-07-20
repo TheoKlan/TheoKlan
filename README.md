@@ -2,17 +2,16 @@
 
 ### Owner of TheoKlan
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TheoKlan&label=Profile views&color=0e75b6&style=flat" alt="TheoKlan" /> </p>
 
-- currently working on **Discord RAT builder in python**
+- Currently working on **Discord RAT builder in python**
 
-- currently learning **c++**
+- Currently learning **c++**
 
-- looking to collaborate on **open source projects**
+- Looking to collaborate on **open source projects**
 
-- 📫 you can contact me **@The0Klan on telegram**
+- You can contact me **@The0Klan on telegram**
 
-- 👨‍💻 All of my projects are available at **[https://github.com/TheoKlan](https://github.com/TheoKlan)**
+- All of my projects are available at **[https://github.com/TheoKlan](https://github.com/TheoKlan)**
 
 <h3 align="left">Discord server and github:</h3>
 <p align="left">
