@@ -9,7 +9,7 @@
 
 - You can contact me **@The0Klan on telegram or join the TheoKlan telegram**
 
-- Public of my projects are available at **[https://github.com/TheoKlan](https://github.com/TheoKlan)**
+- All of my public projects are available at **[https://github.com/TheoKlan](https://github.com/TheoKlan)**
 
 <h3 align="left">Discord server and github</h3>
 <p align="left">
