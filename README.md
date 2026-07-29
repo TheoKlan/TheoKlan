@@ -3,7 +3,7 @@
 ### Owner of TheoKlan
 
 
-- Currently working on **releasing TheoKlan points bot script v1**
+- Currently working on **Finding someone elce to be a part of TheoKlan to build projects with me**
 
 - Looking to collaborate on **open source projects**
 
