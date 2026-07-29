@@ -3,13 +3,13 @@
 ### Owner of TheoKlan
 
 
-- Currently working on **Discord RAT builder in python**
+- Currently working on **Nothing**
 
-- Currently learning **c++**
+- Currently learning **sshhh**
 
 - Looking to collaborate on **open source projects**
 
-- You can contact me **@The0Klan on telegram**
+- You can contact me **@The0Klan on telegram or join the TheoKlan telegram listed below**
 
 - All of my projects are available at **[https://github.com/TheoKlan](https://github.com/TheoKlan)**
 
