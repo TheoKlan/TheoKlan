@@ -20,4 +20,4 @@
 <h3 align="left">----------------------------------------------</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
 
-<b>I know this is not the best looking profile it will look really good soon<b>
+<img width="501" height="495" alt="Screenshot 2026-07-09 185424" src="https://github.com/user-attachments/assets/bb543091-04db-452d-86e7-3dd47d945524" />
