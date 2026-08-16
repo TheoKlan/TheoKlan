@@ -9,12 +9,12 @@
 
 - You can contact me **@The0Klan on telegram or join the TheoKlan telegram**
 
-- All of my public projects are available at **[https://github.com/TheoKlan](https://github.com/TheoKlan)**
+- All of my public projects are available at **https://main.theoklan.workers.dev/ or this github**
 
-<h3 align="left">Discord server and github</h3>
+<h3 align="left">Discord server and github **Discord banned**</h3>
 <p align="left">
 <a href="https://github.com/TheoKlan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="TheoKlan" height="30" width="40" /></a>
-<a href="https://discord.gg/jBKUqxU7FJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jBKUqxU7FJ" height="30" width="40" /></a>
+<a href="https://discord.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jBKUqxU7FJ" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">----------------------------------------------</h3>
